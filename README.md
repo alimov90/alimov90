@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me
+- 📫 How to reach me emailing
 
 <!---
 alimov90/alimov90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
